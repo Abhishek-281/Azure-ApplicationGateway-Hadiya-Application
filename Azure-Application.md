@@ -186,3 +186,7 @@ Add Application gateway ip address as A Record in DNS in our case Go daddy
    
 ### Routing Architecture and calling of Application Gateway   
 ![](__assests__/snap28.png)
+
+
+
+Hello Migration Task
